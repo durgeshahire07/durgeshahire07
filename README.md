@@ -1,11 +1,11 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/durgeshahire07/durgeshahire07/blob/main/gifs/Hi.gif" width="30px"></h2> 
 
-<p>&nbspI'm Durgesh Ahire, Student at MIT SOE Pune Pursuing Btech in Information Technology 🧑‍🎓<br>
+<!-- <p>&nbspI'm Durgesh Ahire, Student at MIT SOE Pune Pursuing Btech in Information Technology 🧑‍🎓<br>
 &nbspAlways curious to learn Cutting Edge Technology🌱<br>
 &nbspA Bit Enthusiast Towards Web Development👨‍💻<br>
 &nbspFascinated about space💫</p>
 
- ---
+ --- -->
 
 ![Matrix SVG](https://raw.githubusercontent.com/durgeshahire07/durgeshahire07/main/matrix.svg)
 <br>

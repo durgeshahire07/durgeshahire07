@@ -1,4 +1,4 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/durgeshahire07/durgeshahire07/blob/main/gifs/Hi.gif" width="30px"></h2> <br>
+<h2>Hey there! I’m Durgesh <img src="https://github.com/durgeshahire07/durgeshahire07/blob/main/gifs/Hi.gif" width="30px"></h2> <br>
 
 ![Matrix SVG](https://raw.githubusercontent.com/durgeshahire07/durgeshahire07/main/matrix.svg)
 <!--

@@ -7,7 +7,7 @@
 
  ---
  
-**Languages and Tools learning currently:**
+**Tech Stack:**
 
 <p align="center">
 
